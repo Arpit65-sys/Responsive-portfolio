@@ -18,8 +18,14 @@ This is a responsive portfolio template that showcases my work and skills.
 3. Customize the content in the HTML and CSS files to personalize your portfolio.
 
 ## Screenshots
+Main page
 
-![image](https://github.com/Arpit65-sys/Responsive-portfolio/assets/108092167/0cac1ec5-66fc-46ed-87e2-19ab0ae6c79c)
+![Screenshot (258)](https://github.com/Arpit65-sys/Responsive-portfolio/assets/108092167/4c5d7605-5f1a-497f-bad1-69eb74772fbf)
+
+Inner Page 
+
+![Screenshot (259)](https://github.com/Arpit65-sys/Responsive-portfolio/assets/108092167/faa562dd-31bb-420f-9266-517514521f3d)
+
 
 
 
