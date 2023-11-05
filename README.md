@@ -1,4 +1,3 @@
-# Responsive-portfolio
 # Responsive Portfolio
 
 This is a responsive portfolio template that showcases my work and skills.
