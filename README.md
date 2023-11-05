@@ -19,7 +19,8 @@ This is a responsive portfolio template that showcases my work and skills.
 
 ## Screenshots
 
-![image](https://github.com/Arpit65-sys/Responsive-portfolio/assets/108092167/bdae90a7-61f5-4655-85c2-c701dc6cb963)
+![image](https://github.com/Arpit65-sys/Responsive-portfolio/assets/108092167/0cac1ec5-66fc-46ed-87e2-19ab0ae6c79c)
+
 
 
 
