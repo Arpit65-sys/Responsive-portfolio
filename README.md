@@ -12,15 +12,16 @@ This is a responsive portfolio template that showcases my work and skills.
 ## How to Use
 
 1. Clone the repository to your local machine:
-
-
+   
 2. Open the `index.html` file in a web browser to view the portfolio.
 
 3. Customize the content in the HTML and CSS files to personalize your portfolio.
 
 ## Screenshots
 
-Include screenshots or GIFs of your portfolio here.
+![image](https://github.com/Arpit65-sys/Responsive-portfolio/assets/108092167/bdae90a7-61f5-4655-85c2-c701dc6cb963)
+
+
 
 ## License
 
